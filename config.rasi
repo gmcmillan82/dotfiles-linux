@@ -1,0 +1,12 @@
+configuration {
+  modi: "ssh,drun";
+  theme: "~/.cache/wal/colors-rofi-dark";
+  font: "Hack 16";
+  combi-modi: "ssh,drun";
+  width: 800;
+  lines: 10;
+  show-icons: true;
+  icon-theme: "Papirus";
+  max-history-size: 25;
+  sort: true;
+}
