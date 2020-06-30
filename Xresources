@@ -1,0 +1,16 @@
+#include "/home/gmcmillan/Ricing/Xresources-themes/iterm-Dracula.Xresources"
+ Xft.autohint: 0
+ Xft.antialias: true
+
+ URxvt.depth: 32
+ URxvt.background: rgba:1111/1111/1111/dddd
+
+ URxvt.font: xft:Fira Code Retina:Retina:pixelsize=14
+ URxvt.boldFont: xft:Fira Code:Bold:pixelsize=14
+ URxvt.scrollBar: false
+ URxvt.internalBorder: 15
+ URxvt.cursorBlink: false
+
+ URxvt.perl-ext-common: default,matcher
+ URxvt.url-launcher: /usr/bin/firefox
+ URxvt.matcher.button: 1

@@ -1,0 +1,21 @@
+#include "/home/gmcmillan/Ricing/Xresources-themes/iterm-Dracula.Xresources"
+ Xft.autohint: 0
+ Xft.antialias: true
+
+ URxvt.depth: 32
+ URxvt.background: rgba:0000/0000/0200/c800
+
+ !URxvt.font:                     xft:DejaVu Sans Mono:autohint=true:size=10
+ !URxvt.boldFont:                 xft:DejaVu Sans Mono:autohint=true:bold:size=10
+ !URxvt.italicFont:               xft:DejaVu Sans Mono:autohint=true:italic:size=10
+ !URxvt.boldItalicFont:           xft:DejaVu Sans Mono:autohint=true:bold:italic:size=10
+
+ URxvt.font: xft:Fira Code Retina:Retina:pixelsize=14
+ URxvt.boldFont: xft:Fira Code:Bold:pixelsize=14
+ URxvt.scrollBar: false
+ URxvt.internalBorder: 15
+ URxvt.cursorBlink: false
+
+ URxvt.perl-ext-common: default,matcher
+ URxvt.url-launcher: /usr/bin/firefox
+ URxvt.matcher.button: 1
